@@ -1,0 +1,24 @@
+{
+"products": [
+  {"id":1,"name":"Seven-banded armadillo","category":"Maroon"},
+  {"id":2,"name":"Springbok","category":"Violet"},
+  {"id":3,"name":"Sociable weaver","category":"Green"},
+  {"id":4,"name":"Crimson-breasted shrike","category":"Puce"},
+  {"id":5,"name":"Langur, gray","category":"Crimson"},
+  {"id":6,"name":"Cormorant, great","category":"Mauv"},
+  {"id":7,"name":"Water monitor","category":"Aquamarine"},
+  {"id":8,"name":"Magpie, australian","category":"Khaki"},
+  {"id":9,"name":"Jaguarundi","category":"Pink"},
+  {"id":10,"name":"Lizard, blue-tongued","category":"Yellow"},
+  {"id":11,"name":"Vervet monkey","category":"Maroon"},
+  {"id":12,"name":"Fox, cape","category":"Violet"},
+  {"id":13,"name":"Greater kudu","category":"Goldenrod"},
+  {"id":14,"name":"Mandras tree shrew","category":"Khaki"},
+  {"id":15,"name":"Dama wallaby","category":"Khaki"},
+  {"id":16,"name":"Catfish, blue","category":"Red"},
+  {"id":17,"name":"Common waterbuck","category":"Violet"},
+  {"id":18,"name":"Brolga crane","category":"Teal"},
+  {"id":19,"name":"Magpie, australian","category":"Turquoise"},
+  {"id":20,"name":"Chital","category":"Aquamarine"}
+  ]
+}
